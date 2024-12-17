@@ -1,2 +1,2 @@
-# Cota-o-de-moedas
+# Cotacao-de-moedas
 Sistema de cotação de moedas estrangeiras
